@@ -3,3 +3,5 @@ def rep_set(n):
     return result
 
 print(rep_set(3))
+
+# [[], [[]], [[], [[]]]]
